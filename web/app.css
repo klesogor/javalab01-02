@@ -1,0 +1,13 @@
+body{
+    background: #EEE;
+    padding: 10px;
+}
+
+td{
+    background: #FFF;
+}
+
+.btn{
+    margin-top:10px;
+    margin-bottom:10px;
+}
